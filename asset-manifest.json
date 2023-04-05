@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/specarts/static/css/main.4237ddcc.css",
+    "main.js": "/specarts/static/js/main.347a1285.js",
+    "static/js/787.7ef07230.chunk.js": "/specarts/static/js/787.7ef07230.chunk.js",
+    "static/media/imag2.png": "/specarts/static/media/imag2.e3507fb5770f0215f39f.png",
+    "static/media/lens1.png": "/specarts/static/media/lens1.8c7cd50410f13cd0d906.png",
+    "static/media/imag3.png": "/specarts/static/media/imag3.0d278ff2d59ef623efb2.png",
+    "static/media/imag1.png": "/specarts/static/media/imag1.5799547d702d5cf12de5.png",
+    "static/media/card3.png": "/specarts/static/media/card3.9813afbb2684af5d4c06.png",
+    "static/media/card2.png": "/specarts/static/media/card2.1533549704ebd41c3b86.png",
+    "static/media/card4.jpg": "/specarts/static/media/card4.8dba36f09e47772434c2.jpg",
+    "static/media/card1.jpg": "/specarts/static/media/card1.59d3723ad1d53ef85812.jpg",
+    "static/media/specartslogo.jpg": "/specarts/static/media/specartslogo.d97afe5d24dd043adbd7.jpg",
+    "index.html": "/specarts/index.html",
+    "main.4237ddcc.css.map": "/specarts/static/css/main.4237ddcc.css.map",
+    "main.347a1285.js.map": "/specarts/static/js/main.347a1285.js.map",
+    "787.7ef07230.chunk.js.map": "/specarts/static/js/787.7ef07230.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4237ddcc.css",
+    "static/js/main.347a1285.js"
+  ]
+}
